@@ -3,10 +3,10 @@
 
 import React, { createContext, useContext, useReducer } from 'react';
 
-// This is the data layer
+// THIS IS THE DATA LAYER
 export const StateContext = createContext();
 
-// Build a provider
+// BUILD A PROVIDER
 export const StateProvider = ({ reducer, initialState, children }) => (
   <StateContext.Provider value={useReducer(reducer, initialState)}>
     {children}

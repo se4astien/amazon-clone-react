@@ -23,8 +23,21 @@ npm i react-router-dom
 // Get icons from Material UI
 npm i @material-ui/core
 npm i @material-ui/icons
+npm i react-currecny-format
+
+firebase login
+firebase init
+deploy project => space + enter
+use an existing project
+choose the project
+build
+yes
+npm run build
+firebase deploy
 
 ## Online
+
+https://clone-e63f1.web.app/
 
 ## Screenshot
 

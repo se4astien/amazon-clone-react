@@ -10,17 +10,18 @@ const Product = ({ id, title, price, rating, image }) => {
     dispatch({
       type: 'ADD_TO_BASKET',
       item: {
-        id,
-        title,
-        image,
-        price,
-        rating,
+        id: id,
+        title: title,
+        image: image,
+        price: price,
+        rating: rating,
       },
     });
   };
   return (
     <div className='product'>
       <div className='product_info'>
+        <p>{id}</p>
         <p>{title}</p>
         <p className='product_price'>
           <small>€</small>
