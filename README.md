@@ -1,4 +1,4 @@
-## Amazon Clone
+## Amazon Clone with React JS
 
 Create Amazon website clone using React JS and Firebase to deploy.
 
@@ -20,19 +20,20 @@ Set up REACT Project
 
 npm i react-router-dom
 
-// Get icons from Material UI
-npm i @material-ui/core
-npm i @material-ui/icons
+<!-- Get icons from Material UI -->
+
+npm i @material-ui/core  
+npm i @material-ui/icons  
 npm i react-currecny-format
 
-firebase login
-firebase init
-deploy project => space + enter
-use an existing project
-choose the project
-build
-yes
-npm run build
+firebase login  
+firebase init  
+deploy project => space + enter  
+use an existing project  
+choose the project  
+build  
+yes  
+npm run build  
 firebase deploy
 
 ## Online
