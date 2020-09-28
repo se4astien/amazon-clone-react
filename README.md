@@ -42,4 +42,4 @@ https://clone-e63f1.web.app/
 
 ## Screenshot
 
-Check amazon.com :)
+<img src="https://github.com/se4astien/amazon-clone-react/blob/master/src/screenshot/amazon-clone.png" alt="Amazon clone" width="100%" />
